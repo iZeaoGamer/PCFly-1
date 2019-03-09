@@ -1,4 +1,5 @@
 # PCFly
 This plugin is a copy of MCPC Fly! now ported to PE!!
+I'VE NOT MADE IT BUT I'VE FIX https://github.com/AngelFlyyin/PCFly/issues/6
 
-[![](https://poggit.pmmp.io/shield.dl.total/PCFly)](https://poggit.pmmp.io/p/PCFly)
+PLUGIN AUTHOR : https://github.com/AngelFlyyin
