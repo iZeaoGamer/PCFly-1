@@ -2,7 +2,7 @@ name: PCFly
 main: Angel\PCFly\Main
 api: 3.0.0
 version: 3.0.0
-author: Angel and fixed by Léo
+author: Angel and fixed by Leo
 commands:
   fly:
     description: "Fly in survival mode with restrictions"
