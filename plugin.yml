@@ -4,8 +4,8 @@ api: 3.0.0
 version: 3.0.0
 author: Angel and fixed by Leo
 commands:
-  fly:
+  plotsfly:
     description: "Fly in survival mode with restrictions"
 permissions:
   fly.command:
-    default: op
+    default: true
