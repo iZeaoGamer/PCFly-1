@@ -45,7 +45,7 @@ class Main extends PluginBase implements Listener{
      * @return bool
      */
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{
-        if(strtolower($command->getName()) == "fly"){
+        if(strtolower($command->getName()) == "plotsfly"){
 
             if(!$sender instanceof Player){
                 $sender->sendMessage(TextFormat::RED . 'This game is only to be used in-game!');
